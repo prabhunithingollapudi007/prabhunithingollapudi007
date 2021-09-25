@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prabhunithingollapudi007
 - 👀 I’m interested in building things 
-- 🌱 I’m currently learning Angular, Java, Python
+- 🌱 I’m currently learning Angular, Java, Spring, Python
 - 💞️ I’m looking to collaborate on interesting Open Source Projects
 - 📫 How to reach me - prabhunithingollapudi007@gmail.com
 
